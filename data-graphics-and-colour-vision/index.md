@@ -10,7 +10,7 @@ Unfortunately, in many cases aesthetics take precedence over clarity, with poor 
 
 We've all seen this type of chart, from web analytics systems to time trackers and fitness apps. Although this chart might look nice it's really poor at its job, which is to make it easy to understand the raw data.
 
-The above chart works for most people, however approximately 8% of the male population and 0.4% of the female population has some form of colour vision deficiency[^n]. Overall 285 million (~4%) people worldwide suffer some form of visual impairment[^n].
+The above chart works for most people, however approximately 8% of the male population and 0.4% of the female population has some form of colour vision deficiency[^1]. Overall 285 million (~4%) people worldwide suffer some form of visual impairment[^2].
 
 In this article we'll look at the difficulties faced by viewers with impaired colour vision and then define some patterns to minimise these difficulties.
 
@@ -147,8 +147,8 @@ Below are some useful resources and tools that will help you to create better gr
 
 ### References
 
-[^n]: http://www.colour-blindness.com/general/prevalence/
-[^n]: http://www.who.int/mediacentre/factsheets/fs282/en/
+[^1]: http://www.colour-blindness.com/general/prevalence/
+[^2]: http://www.who.int/mediacentre/factsheets/fs282/en/
 
 <style>
 svg {
