@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="618px" height="457px" viewBox="0 0 618 457" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <title>donut</title>
+    <description>Created with Sketch (http://www.bohemiancoding.com/sketch)</description>
+    <defs>
+        <path d="M349,560 C459.456955,560 549,470.456955 549,360 C549,249.543045 459.456955,160 349,160 C238.543045,160 149,249.543045 149,360 C149,470.456955 238.543045,560 349,560 Z M348,489 C419.797021,489 478,430.797021 478,359 C478,287.202979 419.797021,229 348,229 C276.202979,229 218,287.202979 218,359 C218,430.797021 276.202979,489 348,489 Z" id="path-1"></path>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="Chart-(deuteranomaly)" sketch:type="MSLayerGroup" transform="translate(-148.000000, -104.000000)">
+            <mask id="mask-2" sketch:name="Base" fill="white">
+                <use xlink:href="#path-1"></use>
+            </mask>
+            <use id="Base" fill="#3370B7" sketch:type="MSShapeGroup" xlink:href="#path-1"></use>
+            <g id="Segments" sketch:type="MSShapeGroup">
+                <path d="M225.032219,316.713727 L160.030454,294.331824 C152.883434,314.90096 149,336.996967 149,360 C149,470.456955 238.543045,560 349,560 C436.853828,560 511.477332,503.35428 538.339334,424.594018 L538.339334,424.594018 L470.93397,401.38449 C453.358388,452.371187 404.956755,489 348,489 C276.202979,489 218,430.797021 218,359 C218,344.1963 220.474417,329.970531 225.032219,316.713727 Z" id="Oval-1" fill="#DB8A2C"></path>
+                <path d="M274.191168,251.970311 L234.835117,195.764045 C182.953164,231.896255 149,291.983032 149,360 C149,470.456955 238.543045,560 349,560 C391.930239,560 431.701288,546.473908 464.283943,523.450929 L464.283943,523.450929 L423.329975,464.962601 C402.077966,480.098116 376.078557,489 348,489 C276.202979,489 218,430.797021 218,359 C218,314.615132 240.243454,275.425504 274.191168,251.970311 Z" id="Oval-1-copy" fill="#969533"></path>
+                <path d="M317.177041,232.675883 L300.531246,165.913246 C213.493997,187.578279 149,266.257445 149,360 C149,470.456955 238.543045,560 349,560 C365.662014,560 381.848141,557.962485 397.322815,554.123022 L397.322815,554.123022 L380.090765,485.009048 C369.826457,487.615106 359.074958,489 348,489 C276.202979,489 218,430.797021 218,359 C218,297.822842 260.258196,246.515621 317.177041,232.675883 Z M544.636192,318.251607 C543.665922,313.682517 542.539637,309.171095 541.263176,304.723179 L544.636192,318.251607 L544.636192,318.251607 Z" id="Oval-1-copy-2" fill="#B55C23"></path>
+                <path d="M276.089922,467.317031 L236.790589,525.580689 C183.807967,489.605841 149,428.867841 149,360 C149,249.543045 238.543045,160 349,160 L349,160 L349,229.003766 C348.666963,229.001257 348.333628,229 348,229 C276.202979,229 218,287.202979 218,359 C218,404.207152 241.075263,444.024785 276.089922,467.317031 Z" id="Oval-1-copy-3" fill="#716BB9"></path>
+                <path d="M236.2642,425.485504 L175.938712,460.314441 C158.808994,430.826155 149,396.558585 149,360 C149,249.543045 238.543045,160 349,160 L349,160 L349,229.003766 C348.666963,229.001257 348.333628,229 348,229 C276.202979,229 218,287.202979 218,359 C218,383.294442 224.664172,406.032382 236.2642,425.485504 Z" id="Oval-1-copy-4" fill="#805A45"></path>
+                <path d="M224.970412,316.893931 L159.968013,294.51181 C187.088266,216.217339 261.478997,160 349,160 L349,229.003766 C348.666963,229.001257 348.333628,229 348,229 C290.939624,229 242.465528,265.762211 224.970412,316.893931 Z M271.62165,544.481377 C279.620175,547.840262 287.883113,550.694141 296.370564,553.003114 L271.621619,544.481366 L271.62165,544.481377 Z" id="Oval-1-copy-5" fill="#BA84BB"></path>
+                <path d="M285.437789,245.016357 L252.153632,184.970148 C280.847349,169.059594 313.865683,160 349,160 L349,160 L349,229.003766 C348.666963,229.001257 348.333628,229 348,229 C325.320863,229 303.99813,234.807449 285.437789,245.016357 Z M169.912335,449.135988 C172.503945,454.332863 175.315105,459.401074 178.333667,464.328473 L169.912335,449.135988 L169.912335,449.135988 Z" id="Oval-1-copy-6" fill="#867C7F"></path>
+            </g>
+            <g id="Legend" transform="translate(590.000000, 160.000000)">
+                <text id="Writing-code" sketch:type="MSTextLayer" font-family="Helvetica" font-size="16" font-weight="normal" fill="#000000">
+                    <tspan x="22" y="15">Writing code</tspan>
+                </text>
+                <rect id="Key" fill="#3370B7" sketch:type="MSShapeGroup" x="0" y="0" width="18" height="18" rx="2"></rect>
+                <text id="Eating" sketch:type="MSTextLayer" font-family="Helvetica" font-size="16" font-weight="normal" fill="#000000">
+                    <tspan x="22" y="45">Eating</tspan>
+                </text>
+                <rect id="Key" fill="#DB8A2C" sketch:type="MSShapeGroup" x="0" y="30" width="18" height="18" rx="2"></rect>
+                <text id="Making-coffee" sketch:type="MSTextLayer" font-family="Helvetica" font-size="16" font-weight="normal" fill="#000000">
+                    <tspan x="22" y="75">Making coffee</tspan>
+                </text>
+                <rect id="Key" fill="#969533" sketch:type="MSShapeGroup" x="0" y="60" width="18" height="18" rx="2"></rect>
+                <text id="Planning" sketch:type="MSTextLayer" font-family="Helvetica" font-size="16" font-weight="normal" fill="#000000">
+                    <tspan x="22" y="105">Planning</tspan>
+                </text>
+                <rect id="Key" fill="#B55C23" sketch:type="MSShapeGroup" x="0" y="90" width="18" height="18" rx="2"></rect>
+                <text id="Commuting" sketch:type="MSTextLayer" font-family="Helvetica" font-size="16" font-weight="normal" fill="#000000">
+                    <tspan x="22" y="135">Commuting</tspan>
+                </text>
+                <rect id="Key" fill="#716BB9" sketch:type="MSShapeGroup" x="0" y="120" width="18" height="18" rx="2"></rect>
+                <text id="Responding-to-emails" sketch:type="MSTextLayer" font-family="Helvetica" font-size="16" font-weight="normal" fill="#000000">
+                    <tspan x="22" y="165">Responding to emails</tspan>
+                </text>
+                <rect id="Key" fill="#805A45" sketch:type="MSShapeGroup" x="0" y="150" width="18" height="18" rx="2"></rect>
+                <text id="Debugging" sketch:type="MSTextLayer" font-family="Helvetica" font-size="16" font-weight="normal" fill="#000000">
+                    <tspan x="22" y="195">Debugging</tspan>
+                </text>
+                <rect id="Key" fill="#BA84BB" sketch:type="MSShapeGroup" x="0" y="180" width="18" height="18" rx="2"></rect>
+                <text id="Changing-nappies" sketch:type="MSTextLayer" font-family="Helvetica" font-size="16" font-weight="normal" fill="#000000">
+                    <tspan x="22" y="225">Changing nappies</tspan>
+                </text>
+                <rect id="Key" fill="#867C7F" sketch:type="MSShapeGroup" x="0" y="210" width="18" height="18" rx="2"></rect>
+            </g>
+            <text id="5%-male" sketch:type="MSTextLayer" font-family="Helvetica Neue" font-size="30" font-weight="260" sketch:alignment="middle" fill="#333333">
+                <tspan x="292.815" y="353">5% male</tspan>
+                <tspan x="260.295" y="389">0.35% female</tspan>
+            </text>
+            <text id="Deuteranomaly-(M-con" sketch:type="MSTextLayer" font-family="Helvetica Neue" font-size="26" font-weight="260" sketch:alignment="middle" fill="#333333">
+                <tspan x="173.5" y="124">Deuteranomaly (M-cone defect)</tspan>
+            </text>
+        </g>
+    </g>
+</svg>
