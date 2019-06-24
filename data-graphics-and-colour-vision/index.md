@@ -6,7 +6,7 @@ Information graphics should allow all viewers to easily understand raw data. The
 
 Unfortunately, in many cases aesthetics take precedence over clarity, with poor use of colour and little or no labelling. Such graphics are difficult for viewers to decipher, especially viewers with some form of visual impairment.
 
-![Confusing legend colours](./donut-confusing-legend-2.svg)
+![Confusing legend colours](../content/donut-confusing-legend-2.svg)
 
 We've all seen this type of chart, from web analytics systems to time trackers and fitness apps. Although this chart might look nice it's really poor at its job, which is to make it easy to understand the raw data.
 
@@ -20,7 +20,7 @@ For brevity we'll refer to *Colour Vision Deficiency* as CVD.
 
 Our contrived example of a chart that seems easy to understand. We've added a helpful legend and the use of bright colours should make it easy to link the segments to their key in the legend.
 
-![Confusing legend colours](./donut-confusing-legend-2.svg)
+![Confusing legend colours](../content/donut-confusing-legend-2.svg)
 
 Unfortunately, a viewer with CVD will likely find it difficult to distinguish several colours in this chart. The graphics below use modified colour values to simulate various forms of CVD[^1].
 
@@ -37,15 +37,15 @@ The difference in colour is quite stark. Although it's still possible to differe
 
 For example, viewers with deuteranomaly will likely struggle to distinguish data points 'Writing code' and 'Commuting'.
 
-![Deuteranomaly linking segments to keys](./donut-deuteranomaly-joins.svg)
+![Deuteranomaly linking segments to keys](../content/donut-deuteranomaly-joins.svg)
 
 Some viewers may even find it impossible to distinguish these colours. For viewers with tritanopia the data points for 'Eating' and 'Debugging' are almost completely identical.
 
-![Tritanopia linking segments to keys](./donut-tritanopia-joins.svg)
+![Tritanopia linking segments to keys](../content/donut-tritanopia-joins.svg)
 
 Linking these segments to the keys requires extra mental effort and in some cases &mdash; from personal experience &mdash; the help of a colour picker tool.
 
-![Colour picker example](./donut-deuteranomaly-picker.svg)
+![Colour picker example](../content/donut-deuteranomaly-picker.svg)
 
 Factors such as screen quality, brightness, contrast and even lighting within a room can affect the ability of a viewer to distinguish individual colours.
 
@@ -83,23 +83,23 @@ That said, choosing contrasting colours is a good start in helping those with CV
 
 Rather than relying solely on colour to display information patterns provide a better way for viewers to differentiate information.
 
-![Colour chart with patterns](./donut-patterns-4.svg)
+![Colour chart with patterns](../content/donut-patterns-4.svg)
 
 Now a viewer with CVD can map the segments to the keys.
 
 A great example of patterns being used to aid visually impaired viewers is the [London Underground Map (PDF)](https://tfl.gov.uk/cdn/static/cms/documents/large-print-tube-map.pdf).
 
-![Colour Tube Map](./colour-tube-map.png)
+![Colour Tube Map](../content/colour-tube-map.png)
 
 The same map can also be viewed in [black &amp; white (PDF)](https://tfl.gov.uk/cdn/static/cms/documents/bw-large-print-map.pdf).
 
-![Black and White Tube Map](./black-white-tube-map-1.png)
+![Black and White Tube Map](../content/black-white-tube-map-1.png)
 
 As well as helping viewers with CVD the high contrast of the black and white map helps viewers with other visual impairments.
 
 Rather than having two versions the map could use colour and patterns to provide a more accessible version of the standard map.
 
-![Colour Pattern Tube Map](./colour-pattern-tube-map-1.png)
+![Colour Pattern Tube Map](../content/colour-pattern-tube-map-1.png)
 
 ### "But it looks ugly!"
 
@@ -117,7 +117,7 @@ Note that the setting isn't hidden away but is placed where the viewer needs it 
 
 Considering the issues with colour perception and the aesthetic drawbacks of using patterns, an alternative is to label your graphics. If the segments are labelled then the legend can be completely removed.
 
-![Labelled donut chart](./donut-labelled-3.svg)
+![Labelled donut chart](../content/donut-labelled-3.svg)
 
 The viewer no longer has to waste mental effort linking the legend keys to the data in the graph. The added bonus is that we don't need crazy patterns.
 
