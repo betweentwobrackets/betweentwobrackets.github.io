@@ -206,7 +206,7 @@ svg .arc path {
 }
 </style>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/d3/3.5.6/d3.min.js"></script>
-<script src="http://d3gmqjlqehd6sf.cloudfront.net/content/2015/08/d3-colorwheel.js"></script>
+<script src="./d3-colorwheel.js"></script>
 <script>
 var trueColor = [  
     {
