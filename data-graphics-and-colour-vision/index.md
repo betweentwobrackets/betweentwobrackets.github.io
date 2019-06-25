@@ -124,8 +124,8 @@ The viewer no longer has to waste mental effort linking the legend keys to the d
 Ideally the labels should be visible by default as in the example above. Alternatively the labels can be shown when the viewer interacts with the graphic. [Chart.js](http://www.chartjs.org/), [Chartist.js](https://gionkunz.github.io/chartist-js/) and [Google Charts](https://developers.google.com/chart/) (and many others) use interactive labels. When the viewer interacts with a segment/data point a label tooltip is shown.
 
 <p id="library-examples" class="column-2">
-    <img src="./chartjs-labels.png" alt="Chart JS Labels">
-    <img src="./google-charts-labels.png" alt="Google Charts Labels">
+    <img src="../content/chartjs-labels.png" alt="Chart JS Labels">
+    <img src="../content/google-charts-labels.png" alt="Google Charts Labels">
 </p>
 
 ### Conclusion
