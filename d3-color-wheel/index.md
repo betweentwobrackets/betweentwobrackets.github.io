@@ -111,7 +111,7 @@ svg {
 </style>
 
 <script src="https://cdnjs.cloudflare.com/ajax/libs/d3/3.5.6/d3.min.js" charset="utf-8"></script>
-<script src="./d3-colorwheel.js"></script>
+<script src="../content/d3-colorwheel.js"></script>
 
 <script>
 var data = [
