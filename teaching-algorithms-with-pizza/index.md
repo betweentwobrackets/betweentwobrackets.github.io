@@ -1,3 +1,4 @@
+![Pizza](../content/pizza-1.jpg)
 *Image credit: [Nirzar Pangarkar](https://unsplash.com/photos/KK1hlAI2lgE).*
 
 A little while ago I ran some sessions at [Adjust Your Set](http://adjustyourset.com/) to teach people about programming. AYS management had expressed an interest in programming sessions. The sessions would teach non-technical employees about coding. Improving understanding of how the tech team execute creative ideas, designs and bug fixes.
